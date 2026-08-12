@@ -23,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0189-rotate-array) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Two Pointers
 |  |
 | ------- |
