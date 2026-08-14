@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0735-asteroid-collision](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0735-asteroid-collision) |
 | [0912-sort-an-array](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0912-sort-an-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
