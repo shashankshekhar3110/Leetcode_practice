@@ -125,4 +125,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0035-search-insert-position) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
