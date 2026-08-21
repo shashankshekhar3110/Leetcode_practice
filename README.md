@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0189-rotate-array) |
+| [0292-nim-game](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0441-arranging-coins) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Two Pointers
@@ -152,4 +153,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0392-is-subsequence) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
