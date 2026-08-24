@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0414-third-maximum-number) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0152-maximum-product-subarray](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
