@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0441-arranging-coins) |
