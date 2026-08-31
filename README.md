@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0013-roman-to-integer) |
+| [0038-count-and-say](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0038-count-and-say) |
 | [0205-isomorphic-strings](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0409-longest-palindrome) |
