@@ -1,26 +1,22 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        if (s.length() != t.length())
-            return false;
+        int n = s.length();
+        int p = t.length();
+        if(n!=p) return false;
 
-        int sToT[256] = {0};
-        int tToS[256] = {0};
+        int m1[256]={0};
+        int m2[256]={0};
 
-        for (int i = 0; i < s.length(); i++) {
-            char a = s[i];
-            char b = t[i];
-
-            if (sToT[a] != 0 && sToT[a] != b)
+        for(int i=0;i<n;i++){
+            if(m1[s[i]]==0 && m2[t[i]]==0){
+                m1[s[i]]=t[i];
+                m2[t[i]]=s[i];
+            }
+            else if(m1[s[i]]!=t[i]){
                 return false;
-
-            if (tToS[b] != 0 && tToS[b] != a)
-                return false;
-
-            sToT[a] = b;
-            tToS[b] = a;
+            }
         }
-
         return true;
     }
 };
