@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0912-sort-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0441-arranging-coins) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
