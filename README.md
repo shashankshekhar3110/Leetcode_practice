@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0414-third-maximum-number) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0735-asteroid-collision](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0735-asteroid-collision) |
+| [0877-stone-game](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0912-sort-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0441-arranging-coins) |
+| [0877-stone-game](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0877-stone-game) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -183,10 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0877-stone-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -205,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0196-delete-duplicate-emails) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
