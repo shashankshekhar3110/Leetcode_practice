@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Dynamic Programming
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0680-valid-palindrome-ii) |
 ## Brainteaser
