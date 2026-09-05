@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0075-sort-colors) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0409-longest-palindrome) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0414-third-maximum-number) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0409-longest-palindrome) |
