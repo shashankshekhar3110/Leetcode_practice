@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0912-sort-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1528-shuffle-string](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/1528-shuffle-string) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0680-valid-palindrome-ii) |
+| [1528-shuffle-string](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/1528-shuffle-string) |
 ## Brainteaser
 |  |
 | ------- |
