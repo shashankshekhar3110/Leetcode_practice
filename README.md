@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0735-asteroid-collision](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0877-stone-game) |
+| [0888-fair-candy-swap](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0912-sort-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0888-fair-candy-swap](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0888-fair-candy-swap) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0414-third-maximum-number) |
+| [0888-fair-candy-swap](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0035-search-insert-position) |
 | [0441-arranging-coins](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0441-arranging-coins) |
+| [0888-fair-candy-swap](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0888-fair-candy-swap) |
 ## Tree
 |  |
 | ------- |
