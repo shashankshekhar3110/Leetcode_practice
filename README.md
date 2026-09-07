@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0441-arranging-coins) |
 | [0877-stone-game](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0877-stone-game) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0680-valid-palindrome-ii) |
 ## Divide and Conquer
@@ -235,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0877-stone-game) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
