@@ -254,4 +254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0223-rectangle-area) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
