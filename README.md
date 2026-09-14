@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0223-rectangle-area) |
+| [0263-ugly-number](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0441-arranging-coins) |
 | [0877-stone-game](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0877-stone-game) |
