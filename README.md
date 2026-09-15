@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0414-third-maximum-number) |
+| [0518-coin-change-ii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0518-coin-change-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0735-asteroid-collision](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0877-stone-game) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0392-is-subsequence) |
+| [0518-coin-change-ii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0877-stone-game) |
 ## Greedy
 |  |
@@ -274,4 +276,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0021-merge-two-sorted-lists) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
