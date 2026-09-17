@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0152-maximum-product-subarray) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0392-is-subsequence) |
