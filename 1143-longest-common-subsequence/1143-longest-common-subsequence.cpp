@@ -12,7 +12,7 @@ public:
                         lcs(text1,text2,m,n-1));                   
         }
     }
-    int lcsMem(const string &text1,const string& text2,int m,int n,vector<vector<int>>&dp){
+    int lcsMem( string &text1, string& text2,int m,int n,vector<vector<int>>&dp){
         if(m==0 || n==0)
             return 0;
             if(dp[m][n]!=-1){
