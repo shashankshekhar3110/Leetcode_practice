@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0877-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0680-valid-palindrome-ii) |
+| [1143-longest-common-subsequence](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/1143-longest-common-subsequence) |
 | [1528-shuffle-string](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/1528-shuffle-string) |
 ## Brainteaser
 |  |
@@ -293,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
