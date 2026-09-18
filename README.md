@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0735-asteroid-collision](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0912-sort-an-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0518-coin-change-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/1143-longest-common-subsequence) |
 ## Greedy
