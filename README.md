@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0070-climbing-stairs) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0735-asteroid-collision) |
 ## Simulation
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0013-roman-to-integer) |
+| [0032-longest-valid-parentheses](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0072-edit-distance) |
@@ -308,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0070-climbing-stairs) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
