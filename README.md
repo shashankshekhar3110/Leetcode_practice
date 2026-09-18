@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0223-rectangle-area) |
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/1143-longest-common-subsequence) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
