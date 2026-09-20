@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0735-asteroid-collision) |
+| [3498-reverse-degree-of-a-string](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0680-valid-palindrome-ii) |
 | [1143-longest-common-subsequence](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/1143-longest-common-subsequence) |
 | [1528-shuffle-string](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/1528-shuffle-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Brainteaser
 |  |
 | ------- |
