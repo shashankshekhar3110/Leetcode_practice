@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0198-house-robber) |
+| [0283-move-zeroes](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0414-third-maximum-number) |
 | [0518-coin-change-ii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0518-coin-change-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0680-valid-palindrome-ii) |
