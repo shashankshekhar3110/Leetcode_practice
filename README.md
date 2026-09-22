@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0223-rectangle-area) |
+| [0231-power-of-two](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0441-arranging-coins) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0338-counting-bits) |
 ## Database
 |  |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0231-power-of-two) |
 ## Knapsack Problem
 |  |
 | ------- |
