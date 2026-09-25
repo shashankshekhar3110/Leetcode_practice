@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1528-shuffle-string](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/1528-shuffle-string) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0441-arranging-coins) |
 | [0877-stone-game](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0877-stone-game) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
