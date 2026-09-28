@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0607-sales-person) |
+| [0620-not-boring-movies](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0620-not-boring-movies) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1251-average-selling-price](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/1251-average-selling-price) |
 | [1407-top-travellers](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/1407-top-travellers) |
