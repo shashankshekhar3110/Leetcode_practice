@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0414-third-maximum-number](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0414-third-maximum-number) |
 | [0518-coin-change-ii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0518-coin-change-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0518-coin-change-ii) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0300-longest-increasing-subsequence](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0441-arranging-coins) |
 | [0888-fair-candy-swap](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0888-fair-candy-swap) |
 ## Tree
@@ -354,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
