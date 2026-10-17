@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/1528-shuffle-string) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0888-fair-candy-swap](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0888-fair-candy-swap) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0414-third-maximum-number) |
 | [0888-fair-candy-swap](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0912-sort-an-array) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
