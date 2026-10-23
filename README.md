@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0042-trapping-rain-water) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0735-asteroid-collision) |
 ## Simulation
@@ -228,11 +229,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0112-path-sum) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0112-path-sum) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
