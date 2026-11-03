@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0338-counting-bits) |
+| [0401-binary-watch](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0401-binary-watch) |
 ## Database
 |  |
 | ------- |
@@ -386,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/shashankshekhar3110/Leetcode_practice/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
